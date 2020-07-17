@@ -11,7 +11,7 @@
 	<groupId>com.example.spring</groupId>
 	<artifactId>rest-pagination-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>rest-pagination-example</name>
+	<name>spring-rest-pagination-example</name>
 	<description>Spring Boot Rest Application</description>
 
 	<properties>
